@@ -1,0 +1,22 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    int banknotes[]={50, 20, 10, 5 ,1};
+    int c,money=0;
+    cout<<
+    cin>>c;
+    for(int i=0; money!=c;){
+        if(money+banknotes[i]>c)
+        {
+            ++i;
+            continue;
+        }
+        else
+            money+=banknotes[i];
+        cout<<banknotes[i]<<' ';
+    }
+    return 0;
+}
