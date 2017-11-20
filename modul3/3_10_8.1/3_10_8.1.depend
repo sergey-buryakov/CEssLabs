@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510836521 source:/home/sergey/практика/3_10_8.1/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
