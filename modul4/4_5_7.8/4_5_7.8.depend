@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1511717741 source:/home/sergey/CEssLabs/modul4/4_5_7.8/main.cpp
+	<iostream>
+	<vector>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1511717555 source:/home/sergey/CEssLabs/modul4/4_5_7.6/main.cpp
+	<iostream>
+	<regex>
+	<cctype>
+

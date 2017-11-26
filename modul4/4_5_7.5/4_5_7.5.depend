@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510945628 source:/home/sergey/практика/4_5_7.5/main.cpp
+	<string>
+	<iostream>
+	<regex>
+
