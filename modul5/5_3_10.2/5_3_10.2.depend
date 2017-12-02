@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512034959 source:/home/sergey/CEssLabs/modul5/5_3_10.2/main.cpp
+	<iostream>
+	<string>
+	<bits/stdc++.h>
+
