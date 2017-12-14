@@ -1,0 +1,44 @@
+#include <iostream>
+
+using namespace std;
+
+class BaseDraw{
+public:
+    virtual void Draw(){
+        cout << "BaseDraw:\n /\ ";
+    }
+}
+
+class Draw1: public BaseDraw{
+public:
+    void Draw() {
+        cout << "Drawing1:\n /\ \n//\\";
+    }
+}
+
+class Draw2: public BaseDraw{
+public:
+    void Draw() {
+        cout << "Drawing2:\n /\\ \n/**\\";
+    }
+}
+
+class Draw3: public BaseDraw{
+public:
+    void Draw() {
+        cout << "Drawing3:\n /\ \n/++\";
+    }
+}
+
+int main()
+{
+    BaseDraw *draws[3];
+    draws[0] = new Draw1();
+    draws[1] = new Draw2();
+    draws[3] = new Draw3();
+
+    for(int i = 0; i < 3; i++)
+        draws[i]->Draw();
+
+    return 0;
+}

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1513261526 source:/home/sergey/CEssLabs/modul6/6_4_4.4/main.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<cstdlib>
+
