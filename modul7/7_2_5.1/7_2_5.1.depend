@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513263393 source:/home/sergey/CEssLabs/modul7/7_2_5.1/main.cpp
+	"string"
+	"iostream"
+	"vector"
+

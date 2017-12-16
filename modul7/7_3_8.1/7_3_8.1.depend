@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1511912066 source:/home/sergey/практика/7_3_8.1/main.cpp
+	<iostream>
+	<sstream>
+

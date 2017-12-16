@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1513265732 source:/home/sergey/CEssLabs/modul7/7_5_9.1/main.cpp
+	"string"
+	"cstring"
+	"iostream"
+	"sstream"
+	<regex>
+
